@@ -1,0 +1,1 @@
+1 passo instalar   = npm install react-native-app-intro-slider
